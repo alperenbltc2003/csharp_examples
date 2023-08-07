@@ -1,0 +1,17 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.AssemblyInfoInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.AssemblyInfo.cs
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\bin\Debug\net6.0-windows\hesap.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\bin\Debug\net6.0-windows\hesap.deps.json
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\bin\Debug\net6.0-windows\hesap.runtimeconfig.json
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\bin\Debug\net6.0-windows\hesap.dll
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\bin\Debug\net6.0-windows\hesap.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.dll
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\refint\hesap.dll
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.genruntimeconfig.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\ref\hesap.dll
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\hesap\obj\Debug\net6.0-windows\hesap.Form3.resources

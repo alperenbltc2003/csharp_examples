@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.Form7.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\bin\Debug\kapatıcı.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\bin\Debug\kapatıcı.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\bin\Debug\kapatıcı.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\kapatıcı\obj\Debug\kapatıcı.pdb

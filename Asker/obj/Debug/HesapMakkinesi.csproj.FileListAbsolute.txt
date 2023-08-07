@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\bin\Debug\Asker.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\bin\Debug\Asker.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\bin\Debug\Asker.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\HesapMakkinesi.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\HesapMakkinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\Asker.Form3.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\Asker.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\HesapMakkinesi.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\HesapMakkinesi.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\Asker.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\Asker\obj\Debug\Asker.pdb

@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\bin\Debug\unlu_uyumu.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\bin\Debug\unlu_uyumu.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\bin\Debug\unlu_uyumu.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.Form5.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\unlu_uyumu\obj\Debug\unlu_uyumu.pdb

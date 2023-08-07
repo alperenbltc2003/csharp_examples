@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.Form4.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\bin\Debug\satranc.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\bin\Debug\satranc.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\bin\Debug\satranc.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\satranc\obj\Debug\satranc.pdb

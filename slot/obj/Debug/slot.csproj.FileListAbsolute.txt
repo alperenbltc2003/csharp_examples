@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.Form9.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\bin\Debug\slot.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\bin\Debug\slot.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\bin\Debug\slot.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\slot\obj\Debug\slot.pdb

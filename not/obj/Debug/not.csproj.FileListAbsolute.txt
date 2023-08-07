@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\bin\Debug\not.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\bin\Debug\not.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\bin\Debug\not.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.Form8.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\not\obj\Debug\not.pdb

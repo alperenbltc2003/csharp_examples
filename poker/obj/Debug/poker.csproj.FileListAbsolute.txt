@@ -1,0 +1,11 @@
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.csproj.AssemblyReference.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.csproj.SuggestedBindingRedirects.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.Form6.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.Properties.Resources.resources
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.csproj.GenerateResource.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.csproj.CoreCompileInputs.cache
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\bin\Debug\poker.exe.config
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\bin\Debug\poker.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\bin\Debug\poker.pdb
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.exe
+C:\Users\TR\source\repos\WindowsFormsApp asker dağıtımı\poker\obj\Debug\poker.pdb
